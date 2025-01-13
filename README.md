@@ -40,7 +40,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=swift,figma,wireshark&theme=dark" height="40"/>
+  <img src="https://skillicons.dev/icons?i=swift,figma,github,gitlab&theme=dark" height="40"/>
   <img width="12" />
 </div>
 
