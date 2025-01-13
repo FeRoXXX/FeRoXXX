@@ -14,7 +14,7 @@
   <a href="https://t.me/gorilassssss" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="ben115899@gmail.com" target="_blank">
+  <a href="mailto:ben115899@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=F94449&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ben115899@gmail.com"  />
   </a>
 </div>
